@@ -7,5 +7,15 @@
 |Okt|매우빠른 분석 속도, 정규화 기능 지원|사용자 사전 관리 어려움. 용언 분석에 일관성이 부족함.|
 
 
-- local db 구조<br>
+### local db 구조<br>
 ![image](https://user-images.githubusercontent.com/66376774/147952348-e05b9e10-0e09-44b3-88b7-b9b2ad1197b5.png)
+
+### 챗봇 프로젝트 구조<br>
+![image](https://user-images.githubusercontent.com/66376774/147957354-fc797846-b329-417d-8b57-2740c187827c.png)
+- train_tools : 챗봇 학습툴 관련 파일
+- models : 챗봇 엔진에서 사용하는 딥러닝 모델 관련 파일
+- intent : 의도 분류 모델 관련 파일
+- ner : 개체 인식 모델 관련 파일
+- utils : 챗봇 개발에 필요한 유틸리티 라이브러리
+- config : 챗봇 개발에 필요한 설정
+- test : 챗봇 개발에 필요한 테스트 코드

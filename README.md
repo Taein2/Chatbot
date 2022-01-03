@@ -7,8 +7,6 @@
 |Okt|매우빠른 분석 속도, 정규화 기능 지원|사용자 사전 관리 어려움. 용언 분석에 일관성이 부족함.|
 
 
-### 연습용 9)_ DB 연결 테스트 local db 구조<br>
-![image](https://user-images.githubusercontent.com/66376774/147952348-e05b9e10-0e09-44b3-88b7-b9b2ad1197b5.png)
 
 ### 챗봇 프로젝트 구조<br>
 ![image](https://user-images.githubusercontent.com/66376774/147957354-fc797846-b329-417d-8b57-2740c187827c.png)
